@@ -1,0 +1,6 @@
+{
+  "userId": "${userId}",
+  "mappingId": "",
+  "recipientType": "TO",
+  "modifiedBy": "${userId}"
+}

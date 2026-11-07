@@ -1,0 +1,8 @@
+{
+  "userId" : "${userId}",
+  "skipStatus" : 0,
+  "roleId" : 1,
+  "flag" : 1,
+  "search" : null,
+  "requestID" : "${requestID}"
+}

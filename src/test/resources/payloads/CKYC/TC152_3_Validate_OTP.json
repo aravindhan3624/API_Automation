@@ -1,0 +1,7 @@
+{
+  "downloadRefId" : "",
+  "ckycInq" : {
+    "otp" : "${OTP}",
+    "otpIdentifier" : ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "flag" : 1,
+  "userId" : "${userId}",
+  "fiId" : null,
+  "fiCode" : "",
+  "fiName" : "",
+  "statusId" : 1,
+  "pageNo" : 1,
+  "pageSize" : 10,
+  "search" : "",
+  "sortColumn" : "",
+  "sortOrder" : "ASC"
+}

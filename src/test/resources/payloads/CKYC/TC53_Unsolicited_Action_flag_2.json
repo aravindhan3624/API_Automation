@@ -1,0 +1,8 @@
+{
+  "flag" : 2,
+  "userId" : "${userId}",
+  "requestID" : "${requestID}",
+  "id" : "",
+  "action" : "ACCEPT",
+  "remarks" : ""
+}

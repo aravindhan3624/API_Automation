@@ -1,0 +1,5 @@
+{
+  "customerIds": "${json:inwardIds0}",
+  "requestID": "${requestID}",
+  "userId": "${userId}"
+}

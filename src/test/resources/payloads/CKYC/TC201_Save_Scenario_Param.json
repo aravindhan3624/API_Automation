@@ -1,0 +1,12 @@
+{
+  "userId": "${userId}",
+  "scenarioCode": "",
+  "paramKey": "",
+  "paramDescription": "",
+  "isRequired": true,
+  "sampleValue": "",
+  "dataType": "STRING",
+  "defaultValue": "",
+  "formatMask": "",
+  "modifiedBy": "${userId}"
+}

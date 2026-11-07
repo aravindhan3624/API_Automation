@@ -1,0 +1,9 @@
+{
+  "subject" : "",
+  "category" : "",
+  "priority" : "",
+  "description" : "",
+  "relatedModule" : "",
+  "raisedBy" : "${userId}",
+  "attachmentName" : ""
+}

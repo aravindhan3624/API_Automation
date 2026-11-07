@@ -1,0 +1,12 @@
+{
+  "flag" : 2,
+  "userId" : "${userId}",
+  "processId" : null,
+  "processCode" : "",
+  "processName" : "",
+  "processType" : "",
+  "description" : "",
+  "scheduleExpr" : "",
+  "timeoutMins" : 0,
+  "retryCount" : 0
+}

@@ -1,0 +1,7 @@
+{
+  "userId": "${userId}",
+  "batchId": "",
+  "scenarioCode": "",
+  "resetAttempt": "Y",
+  "modifiedBy": "${userId}"
+}

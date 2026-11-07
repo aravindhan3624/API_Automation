@@ -1,0 +1,4 @@
+{
+  "cmId": "${pmCmId|pmChkCmId|anyCmId}",
+  "userId": "${userId}"
+}

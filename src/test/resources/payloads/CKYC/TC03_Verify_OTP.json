@@ -1,0 +1,4 @@
+{
+  "otpSessionRef": "${otpSessionRef}",
+  "otp": "${OTP}"
+}

@@ -1,0 +1,8 @@
+{
+  "userId": "${userId}",
+  "templateId": "",
+  "cloneToFiId": "",
+  "emailSubject": "",
+  "emailBody": "",
+  "modifiedBy": "${userId}"
+}

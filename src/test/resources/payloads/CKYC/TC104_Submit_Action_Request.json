@@ -1,0 +1,9 @@
+{
+  "requestID" : "${requestID}",
+  "mcModule" : "USER",
+  "mcAction" : "TOGGLE_STATUS",
+  "mcEntityId" : "",
+  "mcEntityName" : "",
+  "statusId" : 1,
+  "userId" : "${userId}"
+}

@@ -1,0 +1,7 @@
+{
+  "flag" : 5,
+  "userId" : "${userId}",
+  "constitution" : 1,
+  "fiName" : "PRIMARY",
+  "addressFlag" : 0
+}

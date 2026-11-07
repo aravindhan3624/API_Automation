@@ -1,0 +1,9 @@
+{
+  "userId" : "${userId}",
+  "intEnabled" : 1,
+  "twoFactorMethod" : "OTP",
+  "otpLength" : 6,
+  "otpExpiryMins" : 5,
+  "maxAttempts" : 3,
+  "otpType" : "NUMERIC"
+}

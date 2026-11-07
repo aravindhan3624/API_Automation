@@ -1,0 +1,16 @@
+{
+  "userId" : "${userId}",
+  "intEnabled" : 1,
+  "adAuthEnable" : 1,
+  "adLdapUrl" : "",
+  "adLdapsUrl" : "",
+  "adDomainName" : "",
+  "adSearchBase" : "",
+  "adLdapPort" : 389,
+  "adLdapsPort" : 636,
+  "adConnectTimeout" : 5000,
+  "adReadTimeout" : 5000,
+  "adUseLdaps" : 0,
+  "adHostname" : "",
+  "adIpAddress" : ""
+}

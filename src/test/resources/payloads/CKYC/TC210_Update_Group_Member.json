@@ -1,0 +1,9 @@
+{
+  "userId": "${userId}",
+  "memberId": "",
+  "emailId": "",
+  "mobileNo": "",
+  "memberName": "",
+  "recipientType": "TO",
+  "modifiedBy": "${userId}"
+}

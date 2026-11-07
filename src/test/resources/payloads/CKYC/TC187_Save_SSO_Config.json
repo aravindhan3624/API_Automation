@@ -1,0 +1,13 @@
+{
+  "userId" : "${userId}",
+  "ssoEnabled" : 1,
+  "ssoProvider" : "",
+  "ssoTenantId" : "",
+  "ssoIssuerUrl" : "",
+  "ssoClientId" : "",
+  "ssoClientSecret" : "MASKED",
+  "ssoRedirectUri" : "",
+  "ssoMetadataUrl" : "",
+  "ssoScopes" : "",
+  "ssoLogoutUrl" : ""
+}

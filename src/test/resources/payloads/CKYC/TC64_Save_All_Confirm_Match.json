@@ -1,0 +1,13 @@
+{
+  "cmId" : "${cmId}",
+  "loginId" : "${loginId}",
+  "userId" : "${userId}",
+  "sections" : {
+    "personal" : [ ],
+    "address" : [ ],
+    "identity" : [ ],
+    "contact" : [ ],
+    "relatedPerson" : [ ],
+    "image" : [ ]
+  }
+}

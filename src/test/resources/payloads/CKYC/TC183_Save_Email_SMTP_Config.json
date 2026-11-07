@@ -1,0 +1,14 @@
+{
+  "userId" : "${userId}",
+  "emcEnabled" : 1,
+  "smtpHost" : "",
+  "smtpPort" : 587,
+  "smtpUsername" : "",
+  "smtpPassword" : "MASKED",
+  "smtpFromAddress" : "",
+  "smtpFromName" : "",
+  "smtpUseTls" : 1,
+  "smtpUseSsl" : 0,
+  "smtpSubject" : "",
+  "smtpTemplate" : ""
+}

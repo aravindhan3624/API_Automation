@@ -1,0 +1,15 @@
+{
+  "ckycType" : "INDIVIDUAL",
+  "searchKey" : "",
+  "accountType" : "NORMAL",
+  "personalDetails" : { },
+  "ovdMatchingDetails" : { },
+  "residencyDetails" : { },
+  "disabilityDetails" : { },
+  "photo" : "",
+  "identityProofs" : [ ],
+  "addressDetails" : { },
+  "contactDetails" : { },
+  "relatedParties" : [ ],
+  "attestationDetails" : { }
+}

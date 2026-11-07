@@ -1,0 +1,8 @@
+{
+  "flag": 4,
+  "userId": "${userId}",
+  "fiName": "${proofCategory}",
+  "icmId": "${proofIcmId}",
+  "pamId": "${proofPamId}",
+  "dcmId": "${proofDocId}"
+}

@@ -1,0 +1,7 @@
+{
+  "cmId" : "${cmId}",
+  "ckycSearchId" : "",
+  "loginId" : "${loginId}",
+  "userId" : "${userId}",
+  "actionsJson" : "[]"
+}

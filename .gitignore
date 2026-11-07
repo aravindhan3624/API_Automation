@@ -1,0 +1,62 @@
+# ---- secrets / environment (stay on this PC only) ----
+src/test/resources/config.properties
+*.env
+.env*
+*.pem
+*.key
+*.jks
+*.p12
+*.pfx
+
+# ---- test data and payloads with personal data (PAN, mobile, Aadhaar, e-mail) ----
+src/test/resources/API_TestData/
+src/test/resources/payloads/CKYC/CRUD05_Save_Member.json
+src/test/resources/payloads/CKYC/CRUD07_Update_Member.json
+src/test/resources/payloads/DEMO/login.json
+src/test/resources/payloads/SPCBL/dl.json
+src/test/resources/payloads/SPCBL/pan.json
+src/test/resources/payloads/SPCBL/voter.json
+src/test/resources/payloads/SPCBL/whitelist.json
+src/test/resources/payloads/TNSC/TC02_EKYC_req.json
+src/test/resources/payloads/TNSC/TC03_OTP_req.json
+src/test/resources/payloads/TNSC/TC04_cifCreateCustomers.json
+src/test/resources/payloads/TNSC/TC06_https_ppr_nonprodmatm_tcsapps_in_npci_otp.json
+src/test/resources/payloads/TNSC/TC07_https_ppr_nonprodmatm_tcsapps_in_npci_ekyc.json
+src/test/resources/payloads/TNSC/TC08_https_ppr_nonprodmatm_tcsapps_in_npci_otp.json
+src/test/resources/payloads/TNSC/TC09_OA_DB_UPDATE.json
+
+# ---- run output, customer reports, captures, chat exports, backups ----
+reports/
+Today_Backup_*/
+backup/
+postman/
+copilot-profile/
+*.har
+*.log
+*.zip
+
+# ---- docs with internal hosts, names or report screenshots ----
+docs/API_Test_Rulebook.md
+docs/Burp_Replay_Guide.md
+docs/RCA_Console_Test_Count.md
+docs/Negative_Testing_Report_Sample.png
+docs/API_Handover_Template.xlsx
+docs/live-console/
+docs/sample_postman/
+
+# ---- internal working notes (local paths, internal hosts) ----
+CLAUDE.md
+HANDOVER.md
+
+# ---- build output / IDE ----
+target/
+bin/
+out/
+allure-results/
+allure-report/
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project

@@ -1,0 +1,8 @@
+{
+  "userId": "${userId}",
+  "groupId": "${crudGroupId}",
+  "groupName": "${crudName2}",
+  "roleId": "",
+  "resolveQuery": "",
+  "modifiedBy": "${userId}"
+}

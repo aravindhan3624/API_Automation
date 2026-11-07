@@ -1,0 +1,6 @@
+{
+  "requestID" : "${requestID}",
+  "roleId" : "${roleId}",
+  "targetActionIds" : [ ],
+  "userId" : "${userId}"
+}

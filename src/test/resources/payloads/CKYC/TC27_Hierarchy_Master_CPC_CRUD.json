@@ -1,0 +1,8 @@
+{
+  "flag" : 1,
+  "userId" : "${userId}",
+  "cpcId" : null,
+  "cpcCode" : "",
+  "cpcCity" : "",
+  "statusId" : 1
+}

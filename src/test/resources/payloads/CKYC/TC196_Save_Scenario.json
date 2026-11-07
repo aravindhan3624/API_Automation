@@ -1,0 +1,21 @@
+{
+  "userId": "${userId}",
+  "scenarioCode": "",
+  "scenarioName": "",
+  "categoryCode": "",
+  "notifType": "EMAIL",
+  "severity": "INFO",
+  "frequency": "IMMEDIATE",
+  "channels": "",
+  "emailSubject": "",
+  "emailBody": "",
+  "smsBody": "",
+  "fiId": "",
+  "maxRetry": 3,
+  "retryIntervalMin": 5,
+  "slaMinutes": 60,
+  "isEscalatable": false,
+  "hasAttachment": false,
+  "attachmentType": "",
+  "modifiedBy": "${userId}"
+}

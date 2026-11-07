@@ -1,0 +1,5 @@
+{
+  "templateCode": "${scenarioCode}",
+  "params": {},
+  "userId": "${userId}"
+}

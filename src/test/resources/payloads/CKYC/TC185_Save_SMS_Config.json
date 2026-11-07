@@ -1,0 +1,10 @@
+{
+  "userId" : "${userId}",
+  "smcEnabled" : 1,
+  "smsProvider" : "",
+  "smsApiUrl" : "",
+  "smsApiKey" : "MASKED",
+  "smsApiSecret" : "MASKED",
+  "smsSenderId" : "",
+  "smsTemplate" : ""
+}

@@ -1,0 +1,12 @@
+{
+  "reId" : "",
+  "requestId" : "${requestID}",
+  "timestamp" : "",
+  "ckycInq" : {
+    "ckycType" : "INDIVIDUAL",
+    "searchOption" : "CKYC",
+    "payload" : {
+      "ckycNo" : ""
+    }
+  }
+}

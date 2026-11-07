@@ -1,0 +1,6 @@
+{
+  "cmId": "${dvsChkCmId|dvsCmId|anyCmId}",
+  "custType": "IND",
+  "userId": "${userId}",
+  "flag": 2
+}

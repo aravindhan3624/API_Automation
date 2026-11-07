@@ -1,0 +1,12 @@
+{
+  "requestID": "${requestID}",
+  "customerNo": [
+    "${dvsCustId}"
+  ],
+  "userId": "${userId}",
+  "flag": 1,
+  "appCode": null,
+  "customerId": [
+    "${dvsCustId}"
+  ]
+}

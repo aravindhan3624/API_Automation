@@ -1,0 +1,18 @@
+{
+  "requestID" : "${requestID}",
+  "userId" : "${userId}",
+  "firstName" : "",
+  "middleName" : "",
+  "lastName" : "",
+  "designation" : "",
+  "emailId" : "",
+  "mobile" : "",
+  "phone" : "",
+  "fax" : "",
+  "personTypeId" : "",
+  "userName" : "",
+  "password" : "",
+  "statusId" : 1,
+  "roleId" : "${roleId}",
+  "solRegCpc" : ""
+}

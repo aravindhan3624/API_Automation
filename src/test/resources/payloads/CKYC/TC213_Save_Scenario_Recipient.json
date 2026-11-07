@@ -1,0 +1,9 @@
+{
+  "userId": "${userId}",
+  "scenarioCode": "",
+  "groupCode": "",
+  "recipientType": "TO",
+  "channel": "EMAIL",
+  "escalationLevel": 0,
+  "modifiedBy": "${userId}"
+}

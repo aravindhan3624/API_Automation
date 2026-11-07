@@ -1,0 +1,6 @@
+{
+  "id" : "",
+  "cmId" : "${cmId}",
+  "flag" : 1,
+  "userId" : "${userId}"
+}

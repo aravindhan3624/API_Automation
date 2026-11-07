@@ -1,0 +1,17 @@
+{
+  "requestID" : "${requestID}",
+  "userId" : "${userId}",
+  "tagId" : "",
+  "tagName" : "",
+  "tagUrl" : "",
+  "tagDescription" : "",
+  "tagImage" : "",
+  "tagMenuType" : "",
+  "tagSequence" : 0,
+  "tagOrderLevel" : 0,
+  "tagIsParent" : 0,
+  "tagParentId" : null,
+  "tagChildPosition" : 0,
+  "tagParentPosition" : 0,
+  "tagInChildPosition" : 0
+}

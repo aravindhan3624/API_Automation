@@ -1,0 +1,6 @@
+{
+  "userId": "${userId}",
+  "processId": "",
+  "resetAttempt": "Y",
+  "modifiedBy": "${userId}"
+}

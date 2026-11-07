@@ -1,0 +1,10 @@
+{
+  "requestID" : "${requestID}",
+  "viewMode" : "MAKER",
+  "searchText" : "",
+  "pendingStatus" : 0,
+  "pageNo" : 1,
+  "pageSize" : 10,
+  "userId" : "${userId}",
+  "loginId" : "${loginId}"
+}

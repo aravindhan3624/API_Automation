@@ -1,0 +1,7 @@
+{
+  "userId": "${userId}",
+  "scenarioCode": "",
+  "fiId": "",
+  "enabled": true,
+  "modifiedBy": "${userId}"
+}

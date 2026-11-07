@@ -1,0 +1,10 @@
+{
+  "flag" : 1,
+  "userId" : "${userId}",
+  "regionId" : null,
+  "fiId" : "",
+  "regionName" : "",
+  "regionCkycCode" : "",
+  "cpcId" : null,
+  "statusId" : 1
+}

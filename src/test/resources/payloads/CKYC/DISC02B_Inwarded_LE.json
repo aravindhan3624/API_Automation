@@ -1,0 +1,9 @@
+{
+  "requestID": "${requestID}",
+  "userId": "${userId}",
+  "reportId": "${inwardReportId}",
+  "fromDate": "${DATE:-30:dd/MM/yyyy}",
+  "toDate": "${DATE:0:dd/MM/yyyy}",
+  "constitutionType": 2,
+  "applType": "${applType}"
+}

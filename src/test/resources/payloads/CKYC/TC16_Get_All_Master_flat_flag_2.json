@@ -1,0 +1,5 @@
+{
+  "userId" : "${userId}",
+  "requestID" : "${requestID}",
+  "flag" : 2
+}

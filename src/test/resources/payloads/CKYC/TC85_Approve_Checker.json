@@ -1,0 +1,7 @@
+{
+  "requestID" : "${requestID}",
+  "userId" : "${userId}",
+  "loginId" : "${loginId}",
+  "cmId" : "${cmId}",
+  "remarks" : ""
+}

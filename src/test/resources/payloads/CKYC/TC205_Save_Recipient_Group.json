@@ -1,0 +1,11 @@
+{
+  "userId": "${userId}",
+  "groupCode": "",
+  "groupName": "",
+  "description": "",
+  "resolveMode": "STATIC",
+  "fiId": "",
+  "roleId": "",
+  "resolveQuery": "",
+  "modifiedBy": "${userId}"
+}

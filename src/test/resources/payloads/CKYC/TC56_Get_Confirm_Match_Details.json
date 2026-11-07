@@ -1,0 +1,4 @@
+{
+  "cmId": "${cmaCmId|anyCmId}",
+  "userId": "${userId}"
+}

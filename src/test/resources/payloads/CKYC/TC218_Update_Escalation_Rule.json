@@ -1,0 +1,9 @@
+{
+  "userId": "${userId}",
+  "escalationId": "",
+  "triggerAfterMin": 30,
+  "groupCode": "",
+  "escalationSubject": "",
+  "severity": "WARNING",
+  "modifiedBy": "${userId}"
+}

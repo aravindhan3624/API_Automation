@@ -1,0 +1,9 @@
+{
+  "flag" : 1,
+  "userId" : "${userId}",
+  "pageNo" : 1,
+  "pageSize" : 10,
+  "search" : "",
+  "sortColumn" : "",
+  "sortOrder" : "ASC"
+}

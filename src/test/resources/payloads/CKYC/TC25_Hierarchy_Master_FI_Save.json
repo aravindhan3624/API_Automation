@@ -1,0 +1,10 @@
+{
+  "flag" : 2,
+  "userId" : "${userId}",
+  "fiId" : null,
+  "fiCode" : "",
+  "fiName" : "",
+  "statusId" : 1,
+  "sortColumn" : "",
+  "sortOrder" : "ASC"
+}

@@ -1,0 +1,12 @@
+{
+  "flag" : 2,
+  "userId" : "${userId}",
+  "individualId" : null,
+  "prefix" : "Mr",
+  "firstName" : "",
+  "middleName" : "",
+  "lastName" : "",
+  "dob" : "",
+  "gender" : "M",
+  "maritalStatus" : ""
+}

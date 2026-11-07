@@ -1,0 +1,6 @@
+{
+  "cmId": "${dvsLeCmId|anyLeCmId}",
+  "custType": "LE",
+  "userId": "${userId}",
+  "flag": 1
+}

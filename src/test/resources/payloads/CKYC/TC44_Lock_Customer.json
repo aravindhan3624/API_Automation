@@ -1,0 +1,6 @@
+{
+  "cmId" : "${cmId}",
+  "userId" : "${userId}",
+  "loginId" : "${loginId}",
+  "lockType" : "MAKER"
+}

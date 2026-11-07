@@ -1,0 +1,6 @@
+{
+  "userId" : "${userId}",
+  "cmId" : "${cmId}",
+  "flag" : 1,
+  "remarks" : ""
+}

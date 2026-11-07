@@ -1,0 +1,8 @@
+{
+  "cmId" : "${cmId}",
+  "userId" : "${userId}",
+  "custType" : "",
+  "remarks" : "",
+  "action" : 3,
+  "completedTab" : ""
+}

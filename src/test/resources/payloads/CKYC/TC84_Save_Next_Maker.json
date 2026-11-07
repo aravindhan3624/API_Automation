@@ -1,0 +1,7 @@
+{
+  "requestID" : "${requestID}",
+  "userId" : "${userId}",
+  "currentCmId" : "${cmId}",
+  "searchText" : "",
+  "pendingStatus" : 0
+}

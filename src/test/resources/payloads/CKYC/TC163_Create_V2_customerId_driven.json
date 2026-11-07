@@ -1,0 +1,6 @@
+{
+  "customerId" : "${customerId}",
+  "constitutionType" : "02",
+  "flag" : 2,
+  "userId" : "${userId}"
+}

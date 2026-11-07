@@ -1,0 +1,10 @@
+{
+  "flag" : 1,
+  "userId" : "${userId}",
+  "branchId" : null,
+  "regionId" : null,
+  "branchName" : "",
+  "branchCkycCode" : "",
+  "cpcId" : null,
+  "statusId" : 1
+}

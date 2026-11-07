@@ -1,0 +1,8 @@
+{
+  "requestID": "${requestID}",
+  "userId": "${userId}",
+  "reportId": "${reportId}",
+  "fromDate": "01/01/2026",
+  "toDate": "31/12/2026",
+  "statusType": ""
+}

@@ -1,0 +1,8 @@
+{
+  "requestID" : "${requestID}",
+  "userId" : "${userId}",
+  "constitutionType" : "INDIVIDUAL",
+  "ckycNo" : "",
+  "authType" : "01",
+  "authFactor" : ""
+}

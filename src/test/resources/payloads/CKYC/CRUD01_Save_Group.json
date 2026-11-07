@@ -1,0 +1,11 @@
+{
+  "userId": "${userId}",
+  "groupCode": "${crudCode}",
+  "groupName": "${crudName}",
+  "description": "Created by API automation - deleted at the end of the same run",
+  "resolveMode": "STATIC",
+  "fiId": "",
+  "roleId": "",
+  "resolveQuery": "",
+  "modifiedBy": "${userId}"
+}

@@ -1,0 +1,11 @@
+{
+  "userId": "${userId}",
+  "requestID": "${requestID}",
+  "constitutionType": 0,
+  "flag": 0,
+  "applType": "${applType}",
+  "productId": "0",
+  "dateRange": "",
+  "fromDate": "${NOW:yyyy-MM-dd}",
+  "toDate": "${NOW:yyyy-MM-dd}"
+}

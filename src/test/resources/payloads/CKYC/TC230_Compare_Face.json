@@ -1,0 +1,4 @@
+{
+  "userId": "${json:userId}",
+  "customerId": "${dvsCustId}"
+}

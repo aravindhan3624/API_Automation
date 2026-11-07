@@ -1,0 +1,6 @@
+{
+  "requestID" : "${requestID}",
+  "mcModule" : "USER",
+  "intEnabled" : 1,
+  "userId" : "${userId}"
+}

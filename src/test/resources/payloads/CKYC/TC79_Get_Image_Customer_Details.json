@@ -1,0 +1,7 @@
+{
+  "requestID": "${requestID}",
+  "userId": "${userId}",
+  "cmId": "${imgCmId}",
+  "custId": "${imgCustomerId}",
+  "rpId": ""
+}

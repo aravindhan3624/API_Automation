@@ -1,0 +1,6 @@
+{
+  "customerId": "${dvsCustId}",
+  "constitutionType": "01",
+  "flag": 1,
+  "userId": "${userId}"
+}

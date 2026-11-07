@@ -1,0 +1,11 @@
+{
+  "userId": "${userId}",
+  "paramId": "",
+  "paramDescription": "",
+  "isRequired": true,
+  "sampleValue": "",
+  "dataType": "STRING",
+  "defaultValue": "",
+  "formatMask": "",
+  "modifiedBy": "${userId}"
+}

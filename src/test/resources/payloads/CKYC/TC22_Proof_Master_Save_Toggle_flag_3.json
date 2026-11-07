@@ -1,0 +1,9 @@
+{
+  "flag" : 3,
+  "userId" : "${userId}",
+  "fiName" : "",
+  "document" : "",
+  "statusId" : 1,
+  "ovdFlag" : 0,
+  "docNoFlag" : 0
+}
